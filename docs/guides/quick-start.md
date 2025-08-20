@@ -17,8 +17,8 @@ This guide will help you get started with Illusio, the HyperEVM Transaction Simu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/0xNilesh/TxStudio.git
-cd TxStudio
+git clone https://github.com/hypurrstudio/illusio.git
+git clone https://github.com/hypurrstudio/simulation-engine.git
 ```
 
 ### 2. Setup Frontend (Illusio)
@@ -31,10 +31,10 @@ pnpm run dev
 
 The frontend will be available at `http://localhost:3000`
 
-### 3. Setup Backend (TxStudio)
+### 3. Setup Backend (simulation-engine)
 
 ```bash
-cd TxStudio
+cd simulation-engine
 cp env.example .env
 docker-compose up -d
 ```

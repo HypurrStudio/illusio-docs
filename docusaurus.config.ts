@@ -21,8 +21,7 @@ const config: Config = {
   baseUrl: '/illusio-docs/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'hypurrstudio', // Usually your GitHub org/user name.
+  organizationName: 'HypurrStudio', // Usually your GitHub org/user name.
   projectName: 'illusio-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
