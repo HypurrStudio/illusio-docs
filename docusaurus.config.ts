@@ -22,7 +22,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '0xNilesh', // Usually your GitHub org/user name.
+  organizationName: 'hypurrstudio', // Usually your GitHub org/user name.
   projectName: 'Illusio', // Usually your repo name.
 
   onBrokenLinks: 'throw',
