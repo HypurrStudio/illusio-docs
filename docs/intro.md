@@ -104,9 +104,9 @@ HyperEVM is a high-performance Ethereum Virtual Machine implementation optimized
 
 ## Next Steps
 
-- [Quick Start Guide](./guides/quick-start)
-- [API Documentation](./api/overview)
-- [Example Simulations](./examples/basic-simulation)
+- [Quick Start Guide](guides/quick-start)
+- [API Documentation](api/overview)
+- [Example Simulations](examples/basic-simulation)
 
 ## Community and Support
 

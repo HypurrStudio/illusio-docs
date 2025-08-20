@@ -124,5 +124,4 @@ The simulation will return:
 
 - Try simulating more complex transactions
 - Explore contract interactions with multiple calls
-- Learn about [Advanced Features](../guides/advanced-features)
 - Check out the [API Documentation](../api/overview)

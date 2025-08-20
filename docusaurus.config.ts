@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://hypurrstudio.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/illusio/',
+  baseUrl: '/illusio-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'hypurrstudio', // Usually your GitHub org/user name.
-  projectName: 'Illusio', // Usually your repo name.
+  projectName: 'illusio-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
