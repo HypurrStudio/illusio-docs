@@ -67,4 +67,4 @@ The backend API will be available at `http://localhost:8000`
 
 - Explore the [API Documentation](../api/overview)
 - Check out [Example Simulations](../examples/basic-simulation)
-- Learn about [Advanced Features](../guides/advanced-features)
+<!-- - Learn about [Advanced Features](../guides/advanced-features) -->

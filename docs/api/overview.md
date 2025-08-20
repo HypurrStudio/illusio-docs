@@ -70,4 +70,4 @@ Headers included in responses:
 
 ## SDK
 
-A TypeScript SDK is available for easy integration. Check out the [SDK Documentation](./sdk) for more details.
+A TypeScript SDK is available for easy integration. Check out the SDK Documentation for more details.

@@ -44,24 +44,10 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/hypurrstudio/illusio-docs/tree/main/docs-website/',
+            'https://github.com/hypurrstudio/illusio-docs/',
           routeBasePath: '/', // Set docs as the default route
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -92,16 +78,16 @@ const config: Config = {
           items: [
             {
               label: 'API Reference',
-              to: '/docs/api/overview',
+              to: '/api/overview',
             },
             {
               label: 'Examples',
-              to: '/docs/examples/basic-simulation',
+              to: '/examples/basic-simulation',
             },
           ],
         },
         {
-          href: 'https://github.com/hypurrstudio/illusio',
+          href: 'https://github.com/hypurrstudio/illusio-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -113,6 +99,10 @@ const config: Config = {
         {
           title: 'Documentation',
           items: [
+            {
+              label: 'Introduction',
+              to: '/',
+            },
             {
               label: 'Getting Started',
               to: '/guides/quick-start',
@@ -136,7 +126,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/hypurrstudio/illusio',
+              href: 'https://github.com/hypurrstudio/illusio-docs',
             },
           ],
         },
