@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_website=self.webpackChunkdocs_website||[]).push([[583],{6866:(s,e,t)=>{t.r(e),t.d(e,{default:()=>i});var u=t(6347),c=t(4848);function i(){return(0,c.jsx)(u.rd,{to:"/illusio-docs/intro"})}}}]);
